@@ -1,0 +1,27 @@
+{
+    "quiz": {
+        "next": "Next step",
+        "totalQuestions": "2",
+        "questions": [
+            {
+                "question": "How long is your ride?",
+                "counter":"KM"
+            },
+            {
+                "question": "Image Carousel Slider",
+                "answers": [
+                    {"title": "Image1"},
+                    {"title": "Image2"},
+                    {"title": "Image3"}
+                ]
+            }
+        ]
+    },
+    "result": {
+        "title": "testestest",
+        "description": "You’re a real Mountain Goat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum.",
+        "share": "Share with your friends",
+        "retry": "Start over",
+        "shareText": "Share with friends"
+    }
+}
